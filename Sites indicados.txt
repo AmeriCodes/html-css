@@ -1,3 +1,5 @@
+SITES PARA FOTOS
+
 https://mani-unsplash-clone.netlify.app/
 
 https://www.pexels.com/pt-br/
@@ -13,3 +15,7 @@ https://favicon.io/
 SITES PARA EMOJIS
 
 https://emojipedia.org/
+
+SITE PARA SABER OS MIDIA TYPES
+
+https://www.iana.org/assignments/media-types/media-types.xhtml
