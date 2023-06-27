@@ -19,3 +19,11 @@ https://emojipedia.org/
 SITE PARA SABER OS MIDIA TYPES
 
 https://www.iana.org/assignments/media-types/media-types.xhtml
+
+SITES PARA IDEIAS DE CORES PARA CSS
+
+color.adobe.com
+
+paletton.com
+
+https://coolors.co/
