@@ -27,3 +27,17 @@ color.adobe.com
 paletton.com
 
 https://coolors.co/
+
+SITE PARA DE FONTES CSS
+
+https://www.w3schools.com/cssref/css_websafe_fonts.php
+
+https://fonts.google.com/
+
+https://www.dafont.com/pt/
+
+https://www.whatfontis.com/
+
+https://www.fontsquirrel.com/
+
+https://www.myfonts.com/
