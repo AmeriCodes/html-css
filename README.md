@@ -9,4 +9,4 @@ frameworks e sistemas de gestão de conteúdo como o WordPress.
 
 <a href="https://americodes.github.io/html-css/Exerc%C3%ADcios/modulo_2/d010/android.html" target="_blank">Bugdroid</a>
 
-<a href="" target="_blank">Cordel</a>
+<a href="https://americodes.github.io/html-css/Exerc%C3%ADcios/modulo_3/d012/cordel.html" target="_blank">Cordel</a>
