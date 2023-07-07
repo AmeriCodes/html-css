@@ -4,6 +4,8 @@ https://mani-unsplash-clone.netlify.app/
 
 https://www.pexels.com/pt-br/
 
+https://pixabay.com/
+
 SITES PARA ICONES
 
 https://www.iconarchive.com/
@@ -11,6 +13,8 @@ https://www.iconarchive.com/
 https://www.favicon.cc/
 
 https://favicon.io/
+
+https://fontawesome.com/   --- (Curso de Wordpress)
 
 SITES PARA EMOJIS
 
@@ -27,6 +31,8 @@ color.adobe.com
 paletton.com
 
 https://coolors.co/
+
+https://www.colourlovers.com/  --  (Esse síte veio do curso de wordpress e serve para pesquisar por temas e receber paletas de cores relacionadas)
 
 SITE PARA DE FONTES CSS
 
