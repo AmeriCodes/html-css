@@ -23,6 +23,7 @@ Extra large devices (large laptops and desktops, 1200px and up)
 
     section#login {
         width: 80vw;
+        height: 300px;
     }
 
     section#login > div#imagem {
@@ -38,7 +39,7 @@ Extra large devices (large laptops and desktops, 1200px and up)
     }
 
     .label {
-        display: inline-block;
+        display: none;
     }    
 
 }
@@ -50,6 +51,7 @@ Extra large devices (large laptops and desktops, 1200px and up)
 
     section#login {
         width: 950px;
+        height: 400px;
     }
 
     section#login > div#imagem {
@@ -72,7 +74,7 @@ Extra large devices (large laptops and desktops, 1200px and up)
     }
 
     .label {
-        display: inline-block;
+        display: none;
         font-size: 1.2em;
     }
 }
